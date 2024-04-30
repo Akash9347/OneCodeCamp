@@ -10,3 +10,8 @@ git commit -m 'description' - save point
 git branch name - create a branch
 git branch -a - list all the branches in the git
 git checkout name - switch to different branch
+
+Merging feature branch into the main/master branch
+git merge [branch-name]
+Delete a branch
+git branch -d [branch-name]
