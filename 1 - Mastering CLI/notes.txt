@@ -1,0 +1,11 @@
+Commands
+mkdir - make directory (Eg: mkdir "directory name")
+rmdir - remove directory (Eg: rmdir "directory name")
+pwd - Print working directory
+ls - list of all files/folder in present directory
+cd - change directory 
+cd .. -  moving previous directory
+touch filename.extension - create file
+rm filename - delete file
+cp filename destination path - copy file
+mv file destination/new name - moving file/ renaming file

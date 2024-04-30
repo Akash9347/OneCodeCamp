@@ -1,0 +1,12 @@
+Commands
+git --version
+git config --global user.name "Username" - Configuration git
+git config --global user.email "your email" - config email
+git init - initiaalise a repository
+git status - track any changes
+git add . - prepare them in a staging area
+git commit -m 'description' - save point
+
+git branch name - create a branch
+git branch -a - list all the branches in the git
+git checkout name - switch to different branch
